@@ -1,0 +1,6 @@
+{
+  "name": "FAANG AI Interview Coach",
+  "description": "FAANG AI Interview Coach - A realistic, strict, and intelligent end-to-end interview simulator for behavioral, DSA, and system design rounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
